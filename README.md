@@ -22,6 +22,7 @@ Web applications built in R using Shiny.
 
 |||
 |---|-----------|
+|[abstrave](https://github.com/royfrancis/abstrave)|Quarto website template|
 |[minty-quarto-website](https://github.com/royfrancis/minty-quarto-website)|Quarto website template for NBIS projects|
 |[minty](https://github.com/royfrancis/minty)|Rmarkdown report and xaringan presentation template for NBIS projects|
 |[workshop-template-rmd-ga](https://github.com/royfrancis/workshop-template-rmd-ga)|RMarkdown workshop website template with github actions|
@@ -31,6 +32,7 @@ Web applications built in R using Shiny.
 
 |||
 |---|-----------|
+|[plummy](https://github.com/royfrancis/plummy)|ggplot2 custom themes|
 |[easyshiny](https://github.com/NBISweden/easyshiny)|Generate shiny app from single-cell transcriptomics data|
 |[pixture](https://github.com/royfrancis/pixture)|HTML image gallery with lightbox using htmlwidgets. |
 |[pophelper](https://github.com/royfrancis/pophelper)|Analyse and visualise admixture proportions|
