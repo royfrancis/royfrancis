@@ -24,6 +24,7 @@ Web applications built in R using Shiny.
 |---|-----------|
 |[abstrave](https://github.com/royfrancis/abstrave)|Quarto website template|
 |[minty-quarto-website](https://github.com/royfrancis/minty-quarto-website)|Quarto website template for NBIS projects|
+|[minty-quarto-webpage](https://github.com/royfrancis/minty-quarto-webpage)|Quarto single page template for NBIS projects|
 |[minty](https://github.com/royfrancis/minty)|Rmarkdown report and xaringan presentation template for NBIS projects|
 |[workshop-template-rmd-ga](https://github.com/royfrancis/workshop-template-rmd-ga)|RMarkdown workshop website template with github actions|
 |[raukrtemplate](https://github.com/NBISweden/raukrtemplate)|Rmarkdown report and presentation template used for RaukR workshop 2018-2022|
