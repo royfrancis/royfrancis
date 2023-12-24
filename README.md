@@ -22,6 +22,7 @@ Web applications built in R using Shiny.
 
 |||
 |---|-----------|
+|[reveal-logo](https://github.com/royfrancis/reveal-logo)|Quarto extension to add logos to revealjs presentation|
 |[abstrave](https://github.com/royfrancis/abstrave)|Quarto website template|
 |[minty-quarto-website](https://github.com/royfrancis/minty-quarto-website)|Quarto website template for NBIS projects|
 |[minty-quarto-webpage](https://github.com/royfrancis/minty-quarto-webpage)|Quarto single page template for NBIS projects|
