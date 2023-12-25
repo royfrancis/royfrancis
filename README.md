@@ -58,6 +58,7 @@ Web applications built in R using Shiny.
 
 |||
 |---|-----------|
+|[FontCheck](https://github.com/royfrancis/fontcheck)|Interactive font preview|
 |[rskb](https://github.com/royfrancis/rskb)|Knowledgebase for RNASeq and scRNASeq|
 |[r-calendar](https://github.com/royfrancis/r-calendar)|Photo calendar for print using R|
 |[sk](https://github.com/royfrancis/sk)|Skandia mortgage interest rates interactive plot|
