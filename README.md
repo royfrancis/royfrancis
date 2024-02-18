@@ -46,12 +46,13 @@ Web applications built in R using Shiny.
 
 |||
 |---|-----------|
-|[course-r](https://github.com/royfrancis/course-r)|2 day R course for beginners|
+|[workshop-scRNAseq](https://github.com/NBISweden/workshop-scRNAseq)|Single cell RNAseq analysis*|
 |[workshop-ngsintro](https://github.com/NBISweden/workshop-ngsintro)|Introduction to Bioinformatics using NGS data*|
 |[workshop-rnaseq](https://github.com/NBISweden/workshop-RNAseq)|Analyses of Bulk RNAseq data*|
 |[raukr-2023](https://github.com/NBISweden/raukr-2023)|RaukR 2023: Advanced R for Bioinformatics*|
 |[RaukR-2022](https://github.com/NBISweden/RaukR-2022)|RaukR 2022: Advanced R for Bioinformatics*|
 |[RaukR-2021](https://github.com/NBISweden/RaukR-2021)|RaukR 2021: Advanced R for Bioinformatics*|
+|[course-r](https://github.com/royfrancis/course-r)|2 day R course for beginners|
 |[RaukR-2019](https://github.com/NBISweden/RaukR-2019)|RaukR 2019: Advanced R for Bioinformatics*|
 |[RaukR-2018](https://github.com/NBISweden/RaukR-2018)|RaukR 2018: Advanced R for Bioinformatics*|
 |[workshop-r](https://github.com/NBISweden/workshop-r)|5 day R course for beginners*|
@@ -60,7 +61,7 @@ Web applications built in R using Shiny.
 
 |||
 |---|-----------|
-|[FontCheck](https://github.com/royfrancis/fontcheck)|Interactive font preview|
+|[Fontcheck](https://github.com/royfrancis/fontcheck)|Interactive font preview|
 |[rskb](https://github.com/royfrancis/rskb)|Knowledgebase for RNASeq and scRNASeq|
 |[r-calendar](https://github.com/royfrancis/r-calendar)|Photo calendar for print using R|
 |[sk](https://github.com/royfrancis/sk)|Skandia mortgage interest rates interactive plot|
