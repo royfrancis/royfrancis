@@ -18,7 +18,7 @@ Web applications built in R using Shiny.
 |[shiny-valkompass](https://github.com/royfrancis/shiny-valkompass)|Runs PCA and plots your views on Swedish political latent space|
 |[pophelperShiny](https://github.com/royfrancis/pophelperShiny)|Visualise admixture proportions|
 
-### Templates
+### Quarto and Rmarkdown
 
 |||
 |---|-----------|
@@ -39,7 +39,7 @@ Web applications built in R using Shiny.
 |---|-----------|
 |[plummy](https://github.com/royfrancis/plummy)|ggplot2 custom themes|
 |[easyshiny](https://github.com/NBISweden/easyshiny)|Generate shiny app from single-cell transcriptomics data|
-|[pixture](https://github.com/royfrancis/pixture)|HTML image gallery with lightbox using htmlwidgets. |
+|[pixture](https://github.com/royfrancis/pixture)|HTML image gallery with lightbox using htmlwidgets |
 |[pophelper](https://github.com/royfrancis/pophelper)|Analyse and visualise admixture proportions|
 |[iscrape](https://github.com/royfrancis/iscrape)|Instagram scrapper|
 
