@@ -22,6 +22,7 @@ Web applications built in R using Shiny.
 
 |||
 |---|-----------|
+|[quarto-team](https://github.com/royfrancis/quarto-team)|Quarto extension to add a team layout|
 |[quarto-accordion](https://github.com/royfrancis/quarto-accordion)|Quarto extension to add accordions|
 |[specky](https://github.com/royfrancis/specky)|Quarto website template for courses|
 |[quarto-reveal-logo](https://github.com/royfrancis/quarto-reveal-logo)|Quarto extension to add logos to revealjs presentation|
