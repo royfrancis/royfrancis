@@ -65,7 +65,7 @@ Web applications built in R using Shiny.
 |||
 |---|-----------|
 |[Fontcheck](https://github.com/royfrancis/fontcheck)|Interactive font preview|
-|[rskb](https://github.com/royfrancis/rskb)|Knowledgebase for RNASeq and scRNASeq|
+|[SeqHub](https://github.com/royfrancis/seqhub)|Knowledgebase for RNASeq and scRNASeq|
 |[r-calendar](https://github.com/royfrancis/r-calendar)|Photo calendar for print using R|
 |[sk](https://github.com/royfrancis/sk)|Skandia mortgage interest rates interactive plot|
 |[docker-zellkonverter](https://github.com/royfrancis/docker-zellkonverter)|Docker image to run zellkonverter|
