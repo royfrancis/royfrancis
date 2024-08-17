@@ -64,7 +64,7 @@ Web applications built in R using Shiny.
 
 |||
 |---|-----------|
-|[SensorScope](https://github.com/sensorscope/)|Film and camera sensor formats|
+|[SensorScope](https://github.com/royfrancis/sensorscope/)|Film and camera sensor formats|
 |[Fontcheck](https://github.com/royfrancis/fontcheck)|Interactive font preview|
 |[SeqHub](https://github.com/royfrancis/seqhub)|Knowledgebase for RNASeq and scRNASeq|
 |[r-calendar](https://github.com/royfrancis/r-calendar)|Photo calendar for print using R|
