@@ -38,6 +38,7 @@ Web applications built in R using Shiny.
 
 |||
 |---|-----------|
+|[renvtools](https://github.com/royfrancis/renvtools)|Read, write and compare renv lock files|
 |[plummy](https://github.com/royfrancis/plummy)|ggplot2 custom themes|
 |[easyshiny](https://github.com/NBISweden/easyshiny)|Generate shiny app from single-cell transcriptomics data|
 |[pixture](https://github.com/royfrancis/pixture)|HTML image gallery with lightbox using htmlwidgets |
