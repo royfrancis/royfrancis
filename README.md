@@ -12,10 +12,10 @@ Web applications built in R using Shiny.
 |||
 |---|-----------|
 |[shiny-rnaseq-power](https://github.com/royfrancis/shiny-rnaseq-power)|Run power analyses for RNASeq experiments|
-|[shiny-nametagger](https://github.com/royfrancis/shiny-nametagger)|Create name tags|
+|[shiny-nametagger](https://github.com/royfrancis/shiny-nametagger)|Create name tags for clip-on badges|
 |[shiny-doorsign](https://github.com/royfrancis/shiny-doorsign)|Create door signage for office|
 |[shiny-planner](https://github.com/royfrancis/shiny-planner)|A planner calendar|
-|[shiny-certificate](https://github.com/NBISweden/shiny-certificate)|Generate course certificates*|
+|[shiny-certificate](https://github.com/NBISweden/shiny-certificate)*/[certexpress](https://github.com/royfrancis/certexpress)|Generate course certificates|
 |[shiny-valkompass](https://github.com/royfrancis/shiny-valkompass)|Runs PCA and plots your views on Swedish political latent space|
 |[pophelperShiny](https://github.com/royfrancis/pophelperShiny)|Visualise admixture proportions|
 
