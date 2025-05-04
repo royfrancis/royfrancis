@@ -51,6 +51,7 @@ Web applications built in R using Shiny.
 
 |||
 |---|-----------|
+|[raukr-2025](https://github.com/NBISweden/raukr-2025)|RaukR 2025: R Beyond The Basics*|
 |[raukr-2024](https://github.com/NBISweden/raukr-2024)|RaukR 2024: Advanced R for Bioinformatics*|
 |[workshop-scRNAseq](https://github.com/NBISweden/workshop-scRNAseq)|Single cell RNAseq analysis*|
 |[workshop-ngsintro](https://github.com/NBISweden/workshop-ngsintro)|Introduction to Bioinformatics using NGS data*|
