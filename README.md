@@ -23,6 +23,7 @@ Web applications built in R using Shiny.
 
 |||
 |---|-----------|
+|[quarto-particles](https://github.com/royfrancis/quarto-particles)|Quarto extension to add particles.js|
 |[quarto-typst-nametag](https://github.com/royfrancis/quarto-typst-nametag)|Quarto extension using Typst to create nametags|
 |[quarto-typst-certificate](https://github.com/royfrancis/quarto-typst-certificate)|Quarto extension using Typst to create certificates|
 |[quarto-team](https://github.com/royfrancis/quarto-team)|Quarto extension to add a team layout|
