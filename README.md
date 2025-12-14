@@ -11,6 +11,7 @@ Web applications built in R using Shiny.
 
 |||
 |---|-----------|
+|[shiny-flyer](https://github.com/royfrancis/shiny-flyer)|Create flyers for workshops|
 |[shiny-rnaseq-power](https://github.com/royfrancis/shiny-rnaseq-power)|Run power analyses for RNASeq experiments|
 |[shiny-nametagger](https://github.com/royfrancis/shiny-nametagger)|Create name tags for clip-on badges|
 |[shiny-doorsign](https://github.com/royfrancis/shiny-doorsign)|Create door signage for office|
