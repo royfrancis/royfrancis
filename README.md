@@ -24,6 +24,8 @@ Web applications built in R using Shiny.
 
 |||
 |---|-----------|
+|[quarto-revealjs-pointer](https://github.com/royfrancis/quarto-revealjs-pointer)|Quarto extension to add trailing pointer to revealjs presentation|
+|[quarto-leaflet](https://github.com/royfrancis/quarto-leaflet)|Quarto extension to create leaflet maps|
 |[quarto-typst-flyer](https://github.com/royfrancis/quarto-typst-flyer)|Quarto extension using Typst to create flyer|
 |[quarto-particles](https://github.com/royfrancis/quarto-particles)|Quarto extension to add particles.js|
 |[quarto-typst-nametag](https://github.com/royfrancis/quarto-typst-nametag)|Quarto extension using Typst to create nametags|
@@ -31,7 +33,7 @@ Web applications built in R using Shiny.
 |[quarto-team](https://github.com/royfrancis/quarto-team)|Quarto extension to add a team layout|
 |[quarto-accordion](https://github.com/royfrancis/quarto-accordion)|Quarto extension to add accordions|
 |[specky](https://github.com/royfrancis/specky)|Quarto website template for courses|
-|[quarto-reveal-logo](https://github.com/royfrancis/quarto-reveal-logo)|Quarto extension to add logos to revealjs presentation|
+|[quarto-revealjs-header](https://github.com/royfrancis/quarto-revealjs-header)|Quarto extension to add logos to revealjs presentation|
 |[abstrave](https://github.com/royfrancis/abstrave)|Quarto website template for courses|
 |[folium](https://github.com/royfrancis/folium)|Quarto website template for NBIS projects|
 |[folium-webpage](https://github.com/royfrancis/folium-webpage)|Quarto single page template for NBIS projects|
