@@ -24,6 +24,7 @@ Web applications built in R using Shiny.
 
 |||
 |---|-----------|
+|[quarto-toastui](https://github.com/royfrancis/quarto-toastui)|Quarto extension to add toastui calendar component to HTML|
 |[quarto-revealjs-pointer](https://github.com/royfrancis/quarto-revealjs-pointer)|Quarto extension to add trailing pointer to revealjs presentation|
 |[quarto-leaflet](https://github.com/royfrancis/quarto-leaflet)|Quarto extension to create leaflet maps|
 |[quarto-typst-flyer](https://github.com/royfrancis/quarto-typst-flyer)|Quarto extension using Typst to create flyer|
